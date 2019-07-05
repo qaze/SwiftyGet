@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 /// Base protocol for caching storage
 protocol ICache {

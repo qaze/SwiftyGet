@@ -18,6 +18,8 @@
 		A47122CE22CD18C200ED8865 /* UIImage+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47122CD22CD18C200ED8865 /* UIImage+Utils.swift */; };
 		A4746DB122CA9F6C007B7E3F /* DownloaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4746DB022CA9F6C007B7E3F /* DownloaderTests.swift */; };
 		A4746DB322CAA97B007B7E3F /* SwiftyGetTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4746DB222CAA97B007B7E3F /* SwiftyGetTest.swift */; };
+		A4AC0AEA22CF98AE00ABF9EC /* FutureObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = A41803FA22CCA84F00CF441C /* FutureObject.swift */; };
+		A4AC0AEB22CF98D200ABF9EC /* DownloadingTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4C13A9E22CF4B2E00BA337C /* DownloadingTask.swift */; };
 		A4C13A9F22CF4B2E00BA337C /* DownloadingTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4C13A9E22CF4B2E00BA337C /* DownloadingTask.swift */; };
 		A4F1F5DB22CA447800F2CBC7 /* SwiftyGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F1F5DA22CA447800F2CBC7 /* SwiftyGet.swift */; };
 		A4F1F5DC22CA447A00F2CBC7 /* SwiftyGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F1F5DA22CA447800F2CBC7 /* SwiftyGet.swift */; };
@@ -236,7 +238,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4746DB122CA9F6C007B7E3F /* DownloaderTests.swift in Sources */,
+				A4AC0AEB22CF98D200ABF9EC /* DownloadingTask.swift in Sources */,
 				A4F1F5DC22CA447A00F2CBC7 /* SwiftyGet.swift in Sources */,
+				A4AC0AEA22CF98AE00ABF9EC /* FutureObject.swift in Sources */,
 				A4746DB322CAA97B007B7E3F /* SwiftyGetTest.swift in Sources */,
 				A4601CB222C7BF03007084AB /* MemCache.swift in Sources */,
 				A4601CAF22C7BD7A007084AB /* Downloader.swift in Sources */,
